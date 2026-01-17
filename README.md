@@ -1,5 +1,5 @@
 
-# BizOps Portal 🚀
+# React-API Portal 🚀
 **Enterprise-Style React Application (Mock Backend + Docker)**
 
 BizOps Portal is a **business-grade React application** designed to demonstrate how modern enterprise front-end systems are built.  
