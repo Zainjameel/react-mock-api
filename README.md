@@ -152,6 +152,4 @@ http://localhost:5173
 ---
  
 
-### Admin Page
-![Admin](screenshots/admin.png)
 
