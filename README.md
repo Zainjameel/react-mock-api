@@ -5,11 +5,7 @@
 React-API Portal is a **business-grade React application** designed to demonstrate how modern enterprise front-end systems are built.  
 It simulates a real Work Order Management System using **React, TypeScript, MSW (Mock API), and Docker**.
 
-This project is ideal for:
-- Interviews
-- Architecture walkthroughs
-- React enterprise pattern demonstrations
-- Backend–frontend integration discussions
+ 
 
 ---
 
@@ -120,7 +116,7 @@ http://localhost:5173
 
 ---
 
-## 🐳 Run with Docker (Recommended)
+## 🐳 Run with Docker 
 
 Make sure **Docker Desktop** is running.
 
@@ -135,9 +131,7 @@ http://localhost:5173
 
 ---
 
-## 🧠 Interview Talking Points
-
-You can confidently explain:
+ 
 - Separation of **server state vs UI state**
 - Role-based UI enforcement + backend enforcement concept
 - Feature-based folder structure
