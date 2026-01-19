@@ -150,25 +150,7 @@ http://localhost:5173
 - CI/CD pipeline
 
 ---
-
-## 📌 Author
-Built as an **enterprise React reference project** for real-world applications and interviews.
-
----
-
-## 🖼 Screenshots
-
-### Login
-![Login](screenshots/login.png)
-
-### Work Orders List
-![Work Orders](screenshots/work-orders.png)
-
-### Create Work Order
-![Create Work Order](screenshots/create-work-order.png)
-
-### Work Order Details
-![Work Order Details](screenshots/work-order-details.png)
+ 
 
 ### Admin Page
 ![Admin](screenshots/admin.png)
